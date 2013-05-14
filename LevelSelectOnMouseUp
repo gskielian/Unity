@@ -1,5 +1,7 @@
 #pragma strict
 
+//Also works on touchScreens!
+
 // Register when mouse dragging has ended . OnMouseUp is called
 // when the mose utton is released. See Also OnMouseDown, OnMouseDrag.
 
