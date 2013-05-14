@@ -1,0 +1,24 @@
+#pragma script
+
+
+//if no know how to find out how to do stuff -- scripting reference (no internet needed)
+
+function Start() {
+
+}
+
+function Update() {
+
+
+}
+
+function OnTriggerEnter( t : Collider ) {
+
+  if( t.gameObject.tag == "Player" )
+  {
+    t.gameObject.SendMessage( "PickUp", "ak47" ); // Name of the gun is AK47, in this case
+  }
+
+
+
+}
