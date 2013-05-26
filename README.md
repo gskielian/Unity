@@ -14,6 +14,6 @@ I am also creating an "Arduino Simulator" which aims to ease the barrier-of-entr
 
 
 
-Many thanks once again to to Alex Peake and cohorts at Noisebridge for their guidance and support!
+Many thanks to Alex Peake and cohorts at Noisebridge for their guidance and support!
 
 
